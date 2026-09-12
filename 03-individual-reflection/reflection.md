@@ -6,7 +6,7 @@
 
 - Họ và tên: Nguyễn Tuấn Thành
 - Mã học viên: 2A202602640
-- Nhóm: Zone E - Nhóm 4
+- Nhóm: Zone D - Nhóm D3
 - Candidate problem nhóm chọn: Hỗ trợ người Điếc tiếp cận video tiếng Việt trên YouTube bằng ngôn ngữ ký hiệu.
 
 ---
